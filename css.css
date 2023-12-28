@@ -1,0 +1,23 @@
+/* Include Inria font from an external source (Google Fonts in this case) */
+        @import url('https://fonts.googleapis.com/css2?family=Inria+Sans:wght@400;700&display=swap');
+
+        /* Apply Inria font to the body */
+        body {
+            font-family: 'Inria Sans', sans-serif;
+        }
+
+
+
+        .carousel-inner img {
+            width: 100%;
+            height: auto;
+        }
+
+        .aa {
+            margin-top: 80px;
+            margin-bottom: 80px;
+        }
+
+        .ab {
+            margin-bottom: 80px;
+        }
